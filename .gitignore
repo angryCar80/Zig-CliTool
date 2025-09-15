@@ -1,0 +1,17 @@
+# Zig build cache
+zig-cache/
+
+# Build output
+zig-out/
+
+# Editor / OS junk
+.DS_Store
+Thumbs.db
+
+# VSCode / JetBrains / etc.
+.vscode/
+.idea/
+
+# If you use Neovim swap files
+*.swp
+
