@@ -1,5 +1,5 @@
 # Zig build cache
-zig-cache/
+.zig-cache/
 
 # Build output
 zig-out/
